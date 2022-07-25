@@ -6,15 +6,18 @@ import {Navbar, Footer,Hero}  from '../components'
 
 const Home: NextPage = () => {
   return (
-    <div >
+    <div className='' >
       <Head>
         <title>Your App Name</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
 {/* Website Sections */}
+<div className="bg-darkBlue h-screen pt-14 px-[100px]">
 <Navbar/>
 <Hero/>
+</div>
+
 <Footer/>
 
     </div>
