@@ -2,7 +2,7 @@ import React from "react";
 import { images } from "../constants";
 import { Icon } from "@iconify/react";
 
-import ServiceCard from "./ServiceCard";
+import ServiceCard from "../components/ServiceCard";
 
 const Services = () => {
   return (

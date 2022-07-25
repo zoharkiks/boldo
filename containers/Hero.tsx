@@ -1,6 +1,5 @@
 import React from "react";
 import { images } from "../constants";
-import Ticker from "react-ticker";
 
 const Hero = () => {
   return (
