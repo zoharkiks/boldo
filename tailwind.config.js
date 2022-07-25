@@ -5,18 +5,18 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    // Use custom colors
-    // colors: {
-    //   'white': '#ffffff',
-    //   'black':'#000000',
-    // },
+    colors: {
+      'white': '#ffffff',
+      'black':'#000000',
+      'green':'#69E6A6',
+      'darkBlue':'#0A2640'
+    },
     extend: {
-      // Using custom fonts
-      // fontFamily: {
-      //   worldwide: ["WorldwideHeadline", "cursive"],
-      //   blooming: ["Blooming Elegant Sans", "cursive"],
-      //   poppins: ["Poppins", 'sans-serif']
-      // },
+      fontFamily: {
+        manrope: ["Manrope", "sans-serif"],
+        opensans: ["Open Sans", "sans-serif"],
+        worksans: ["Work Sans", "sans-serif"],
+      },
     },
   },
   plugins: [],
