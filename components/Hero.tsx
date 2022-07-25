@@ -4,7 +4,7 @@ import Ticker from "react-ticker";
 
 const Hero = () => {
   return (
-    <div className="mt-[54px] ">
+    <div className="mt-[64px] ">
       <div className=" flex justify-between text-white">
         <div className="flex w-1/2 flex-col justify-center  ">
           <h1 className="mb-4 font-manrope text-[48px] leading-[72px]">
