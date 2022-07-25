@@ -6,7 +6,7 @@ import ServiceCard from "../components/ServiceCard";
 
 const Services = () => {
   return (
-    <div className="px-[100px] py-20">
+    <div className="px-[100px] pt-20 pb-[226px]">
       <div className="mb-20 flex flex-col items-center justify-center space-y-3">
         <h1 className="font-opensans text-xl text-gray">Our Services</h1>
         <h2 className="w-[70%] text-center font-manrope text-[40px]">
