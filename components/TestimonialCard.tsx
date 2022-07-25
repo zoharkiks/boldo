@@ -1,7 +1,7 @@
 import React from "react";
 import { images } from "../constants";
 
-const TestimonialCard = ({comment,name,title,image}) => {
+const TestimonialCard = ({comment,name,title,image}:{comment:string, name:string, title:string, image:any}) => {
   return (
     <div className="flex flex-col bg-white text-black p-10 rounded-xl font-opensans space-y-10  ">
       <h1 className="text-2xl">

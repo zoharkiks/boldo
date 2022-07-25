@@ -11,6 +11,7 @@ import logo from "../assets/logo.png";
 import people1 from "../assets/people1.png";
 import people2 from "../assets/people2.png";
 import people3 from "../assets/people3.png";
+import services from "../assets/services.png";
 
 export default {
   graph1,
@@ -26,4 +27,5 @@ export default {
   people1,
   people2,
   people3,
+  services
 };
