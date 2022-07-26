@@ -2,8 +2,8 @@ import React from 'react'
 
 const Newsletter = () => {
   return (
-    <div className='px-[100px] flex justify-evenly items-center  '>
-<div className="bg-darkBlue h-[391px] w- rounded-xl flex flex-col justify-center items-center font-manrope text-white   ">
+    <div className=' flex justify-center items-center   '>
+<div className="bg-darkBlue h-[391px]  rounded-xl flex flex-col justify-center items-center font-manrope text-white   ">
   <h1 className='text-[48px] text-center w-[60%]'>An enterprise template to ramp up your company website
 </h1>
 <div className="flex mt-12 ">
