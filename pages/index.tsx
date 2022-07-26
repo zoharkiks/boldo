@@ -1,31 +1,37 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
-import { Newsletter } from '../components'
+import type { NextPage } from "next";
+import Head from "next/head";
+import { Newsletter } from "../components";
 
 // import components
-import {Navbar, Footer,Hero, Services, Testimonials,Blog}  from '../containers'
+import {
+  Navbar,
+  Footer,
+  Hero,
+  Services,
+  Testimonials,
+  Blog,
+} from "../containers";
 
 const Home: NextPage = () => {
   return (
-    <div className='' >
+    <div className="">
       <Head>
         <title>Your App Name</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-{/* Website Sections */}
-<div className="bg-darkBlue h-screen pt-14 px-[100px] lg:px-[50px] md:pt-8 md:px-[30px]" >
-<Navbar/>
-<Hero/>
-</div>
-{/* <Services/>
-<Testimonials/>
-<Blog/>
-<Newsletter/>
-<Footer/> */}
-
+      {/* Website Sections */}
+      <div className="h-screen bg-darkBlue px-[100px] pt-14 lg:px-[50px] md:px-[30px] md:pt-8">
+        <Navbar />
+        <Hero />
+      </div>
+      <Services />
+      {/* <Testimonials/> */}
+{/* <Blog/> */}
+{/* <Newsletter/> */}
+{/* <Footer/> */}
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;

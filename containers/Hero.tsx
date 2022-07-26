@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="mt-[64px] md:mt-[140px] ">
       <div className=" flex justify-between text-white sm:justify-center  ">
         <div className="flex w-1/2 flex-col justify-center sm:items-center   ">
-          <h1 className="mb-4 font-manrope text-[48px] leading-[72px] lg:text-[38px] lg:leading-[60px] md:text-[28px] md:leading-[45px] sm:text-center">
+          <h1 className="mb-4 font-manrope text-[48px] leading-[72px] lg:text-[38px] lg:leading-[60px] md:text-[32px] md:leading-[45px] sm:text-center">
             Save time by building fast with Boldo Template{" "}
           </h1>
           <h2 className="mb-10  font-opensans leading-7 sm:hidden ">
