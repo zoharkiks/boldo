@@ -14,15 +14,15 @@ const Home: NextPage = () => {
       </Head>
 
 {/* Website Sections */}
-<div className="bg-darkBlue h-screen pt-14 px-[100px]">
+<div className="bg-darkBlue h-screen pt-14 px-[100px] lg:px-[50px] md:pt-8 md:px-[30px]" >
 <Navbar/>
 <Hero/>
 </div>
-<Services/>
+{/* <Services/>
 <Testimonials/>
 <Blog/>
 <Newsletter/>
-<Footer/>
+<Footer/> */}
 
     </div>
   )
