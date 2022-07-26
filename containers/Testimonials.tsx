@@ -1,6 +1,6 @@
 import React from "react";
 import { Icon } from "@iconify/react";
-import TestimonialCard from "../components/TestimonialCard";
+import {TestimonialCard} from "../components";
 import { images } from "../constants";
 
 const Testimonials = () => {
