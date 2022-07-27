@@ -16,7 +16,7 @@ const Home: NextPage = () => {
   return (
     <div className="">
       <Head>
-        <title>Your App Name</title>
+        <title>Boldo</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
