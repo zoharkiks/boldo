@@ -26,10 +26,10 @@ const Home: NextPage = () => {
         <Hero />
       </div>
       <Services />
-      {/* <Testimonials/> */}
-{/* <Blog/> */}
-{/* <Newsletter/> */}
-{/* <Footer/> */}
+      <Testimonials/>
+<Blog/>
+<Newsletter/>
+<Footer/>
     </div>
   );
 };
