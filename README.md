@@ -1,4 +1,4 @@
-<h1 align="center">Modern Signup Form </h3> 
+<h1 align="center">Boldo</h3> 
 <p> <a href="https://boldo.vercel.app/"><h3 align="center" >Live Site</h3></a>
 
 
