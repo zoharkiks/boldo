@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/dL2DdfX/Boldo.png" alt="Boldo" height="75%" width="75%" >
+<img src="./Boldo.png" alt="Boldo" height="55%" width="55%" >
 </p>
 
 ## Introduction 🚀
