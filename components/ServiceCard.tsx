@@ -2,7 +2,7 @@ import React from "react";
 import { images } from "../constants";
 import { Icon } from "@iconify/react";
 
-const ServiceCard = ({title,image}) => {
+const ServiceCard = ({title,image}:{title:string,image:string}) => {
   return (
     <div className="">
       <div className="flex flex-col items-center  font-opensans md:rounded-lg md:drop-shadow-xl md:bg-white md:py-10  ">
