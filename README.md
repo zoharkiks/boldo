@@ -1,5 +1,5 @@
 <h1 align="center">Boldo</h3> 
-<p> <a href="https://boldo.vercel.app/"><h3 align="center" >Live Site</h3></a>
+<p align="center"><a href="https://boldo.vercel.app/">Live Site</a></p>
 
 
 <p align="center">
